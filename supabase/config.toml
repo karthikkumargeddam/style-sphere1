@@ -1,0 +1,16 @@
+project_id = "kceoctwsftogrhwhczop"
+
+[functions.product-chat]
+verify_jwt = false
+
+[functions.size-guide]
+verify_jwt = false
+
+[functions.create-checkout]
+verify_jwt = false
+
+[functions.send-order-confirmation]
+verify_jwt = false
+
+[functions.check-low-stock]
+verify_jwt = false
